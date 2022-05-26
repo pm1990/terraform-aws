@@ -1,6 +1,6 @@
 # AWS Terraform Templates
 
-This repo has a collection of AWS terraform templates, that I have worked on from past few years.
+This repo has a collection of AWS terraform templates, that I have worked on from past few years. The collection of different use cases are arranged in a way that even a beginner can understand and use the templates. 
 
 ## **Pre-requisite:**
 - [Install terraform on your system](https://learn.hashicorp.com/tutorials/terraform/install-cli)
@@ -27,4 +27,4 @@ cat $HOME/.aws/credentials
 ```
 
 ## **Use Cases:**
-- Case 1: [Create a simple EC2 Machine in AWS and Destroy once done]()
+- Case 1: [Create a simple EC2 Machine in AWS and destroy](01-EC2-Terraform)
