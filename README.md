@@ -25,3 +25,6 @@ aws s3 ls
 ```
 cat $HOME/.aws/credentials 
 ```
+
+## **Use Cases:**
+- Case 1: [Create a simple EC2 Machine in AWS and Destroy once done]()
