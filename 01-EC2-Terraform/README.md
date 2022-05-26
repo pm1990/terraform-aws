@@ -42,13 +42,13 @@ terraform plan
 terraform apply 
 ```
 
-## Step-04: Verify the EC2 Instance in AWS Management Console
+## Verify the EC2 Instance in AWS Management Console
 - Go to AWS Management Console -> Services -> EC2
 - Verify newly created EC2 instance
 
 
 
-## Step-05: Destroy Infrastructure
+## Destroy Infrastructure - Important Step
 ```t
 # Destroy EC2 Instance
 terraform destroy
