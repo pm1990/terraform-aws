@@ -3,8 +3,8 @@
 This repo has a collection of AWS terraform templates, that I have worked on from past few years.
 
 ## **Pre-requisite:**
-- Install terraform on your system
-- Install AWS cli on your system
+- [Install terraform on your system](https://learn.hashicorp.com/tutorials/terraform/install-cli)
+- [Install AWS cli on your system](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 - Should have AWS Account.
   - [Create an AWS Account](https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start)
 - Generate Security Credentials using AWS Management Console
