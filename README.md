@@ -1,4 +1,4 @@
-# AWS Terraform Templates
+# AWS with Terraform
 
 This repo has a collection of AWS terraform templates, that I have worked on from past few years. The collection of different use cases are arranged in a way that even a beginner can understand and use the templates. 
 
